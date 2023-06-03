@@ -1,2 +1,2 @@
 # airflow_docker
-First docker project with baiscs and different operators
+First Apache Airflow docker project with baiscs and different operators
